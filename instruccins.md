@@ -1,0 +1,14 @@
+- **git init** – inicialitza un repositori nou  
+- **git status** – mostra els canvis pendents  
+- **git add** – afegeix fitxers a l'índex  
+- **git commit** – desa els canvis al repositori amb un missatge  
+- **git push** – envia els commits al repositori remot  
+- **git pull** – baixa i integra els canvis del repositori remot  
+- **git clone** – clona un repositori remot al teu ordinador  
+- **git branch** – mostra o crea branques  
+- **git checkout** – canvia de branca o restaura fitxers  
+- **git merge** – fusiona una branca amb una altra  
+- **git log** – mostra l’historial de commits  
+- **git remote** – gestiona repositoris remots  
+- **git reset** – desfà canvis a l’índex o als commits  
+- **git diff** – mostra les diferències entre versions  
